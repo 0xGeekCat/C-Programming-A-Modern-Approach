@@ -1,0 +1,40 @@
+2.1
+    1. 有，最后一行添加return 0;
+
+2.2
+    2. (a) 指令 #include <stdio.h>
+           语句 printf... return...
+       (b) Parkinson's Law:
+           Work expands so as to fill the time
+           available for its completion.
+
+2.4
+    3. int main(void)
+       {
+           int height = 8, length = 12, width = 10, volume;
+
+           volume = height * length * width;
+
+           printf("Dimensions: %dx%d%d\n", length, width, height);
+           printf("Volume (cubic inches): %d\n", volume);
+           printf("Dimensional weight (pounds): %d\n", (volume + 165) / 166);
+
+           return 0;
+       }
+
+    4. int main(void)
+       {
+           int a, b, c, d, e, f;
+           float g, h, i, k, l;
+
+           printf("%d, %d, %d, %d, %d, %d\n", a, b, c, d, e, f); // 1, 328478757, 32766, -442333368, 0, 0
+           printf("%f, %f, %f, %f, %f", g, h, i, k, l); // 0.000000, 0.000000, 0.000000, 0.000000, 0.000000
+       }
+
+2.7
+    5. (a)
+
+    7. (a) (c) (d) (e)
+
+2.8
+    8. answer = ( 3 * q - p * p ) / 3 ; total: 14
