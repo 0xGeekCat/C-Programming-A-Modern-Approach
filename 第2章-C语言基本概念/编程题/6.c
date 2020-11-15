@@ -1,5 +1,5 @@
 /*
- * Horner法则减少所需惩罚次数
+ * Horner法则减少所需乘法次数
  */
 
 #include <stdio.h>

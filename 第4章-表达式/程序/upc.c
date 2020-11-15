@@ -1,3 +1,7 @@
+/*
+ * 计算通用产品代码的校验位
+ */
+
 #include <stdio.h>
 
 //int main(void)
