@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C_Programming__A_Modern_Approach"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_Programming__A_Modern_Approach">
+				<Option output="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/C_Programming__A_Modern_Approach" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_Programming__A_Modern_Approach"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_Programming__A_Modern_Approach/fast">
+				<Option output="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/C_Programming__A_Modern_Approach" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_Programming__A_Modern_Approach/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/max/CLionProjects/C\ Programming:\ A\ Modern\ Approach/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/tmp.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第10章-程序结构/程序/guess.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第10章-程序结构/程序/guess2.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第10章-程序结构/程序/poker.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第11章-指针/程序/maxmin.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第12章-指针和数组/程序/reverse3.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第2章-C语言基本概念/程序/celsius.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第2章-C语言基本概念/程序/dweight.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第2章-C语言基本概念/程序/dweight2.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第2章-C语言基本概念/程序/pun.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第2章-C语言基本概念/编程题/2.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第2章-C语言基本概念/编程题/3.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第2章-C语言基本概念/编程题/4.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第2章-C语言基本概念/编程题/5.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第2章-C语言基本概念/编程题/6.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第2章-C语言基本概念/编程题/7.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第3章-格式化输入输出/程序/addfrac.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第3章-格式化输入输出/程序/tprintf.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第3章-格式化输入输出/编程题/1.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第3章-格式化输入输出/编程题/2.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第3章-格式化输入输出/编程题/3.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第3章-格式化输入输出/编程题/4.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第3章-格式化输入输出/编程题/5.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第3章-格式化输入输出/编程题/6.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第4章-表达式/程序/upc.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第4章-表达式/编程题/1.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第4章-表达式/编程题/2.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第4章-表达式/编程题/3.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第5章-选择语句/程序/broker.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第5章-选择语句/程序/date.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第5章-选择语句/编程题/10.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第5章-选择语句/编程题/2.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第5章-选择语句/编程题/4.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第5章-选择语句/编程题/6.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/程序/checking.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/程序/numdigit.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/程序/square.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/程序/square2.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/程序/square3.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/程序/sum.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/编程题/2.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/编程题/4.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/编程题/6.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/编程题/8.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第7章-基本类型/程序/length.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第7章-基本类型/程序/sum2.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第8章-数组/程序/deal.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第8章-数组/程序/interest.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第8章-数组/程序/repdigit.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第8章-数组/程序/reverse.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第8章-数组/程序/reverse2.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第9章-函数/程序/average.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第9章-函数/程序/countdown.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第9章-函数/程序/prime.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第9章-函数/程序/pun2.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第9章-函数/程序/qsort.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

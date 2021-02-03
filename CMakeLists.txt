@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(C_Programming__A_Modern_Approach C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(C_Programming__A_Modern_Approach 第2章-C语言基本概念/程序/pun.c 第2章-C语言基本概念/程序/dweight.c 第2章-C语言基本概念/程序/dweight2.c 第2章-C语言基本概念/程序/celsius.c 第2章-C语言基本概念/编程题/2.c 第2章-C语言基本概念/编程题/3.c 第2章-C语言基本概念/编程题/4.c 第2章-C语言基本概念/编程题/5.c 第2章-C语言基本概念/编程题/6.c 第2章-C语言基本概念/编程题/7.c 第3章-格式化输入输出/程序/tprintf.c tmp.c 第3章-格式化输入输出/程序/addfrac.c 第3章-格式化输入输出/编程题/1.c 第3章-格式化输入输出/编程题/2.c 第3章-格式化输入输出/编程题/3.c 第3章-格式化输入输出/编程题/4.c 第3章-格式化输入输出/编程题/5.c 第3章-格式化输入输出/编程题/6.c 第4章-表达式/程序/upc.c 第4章-表达式/编程题/1.c 第4章-表达式/编程题/2.c 第4章-表达式/编程题/3.c 第5章-选择语句/程序/broker.c 第5章-选择语句/程序/date.c 第5章-选择语句/编程题/2.c 第5章-选择语句/编程题/4.c 第5章-选择语句/编程题/6.c 第5章-选择语句/编程题/10.c 第6章-循环/程序/square.c 第6章-循环/程序/sum.c 第6章-循环/程序/numdigit.c 第6章-循环/程序/square2.c 第6章-循环/程序/square3.c 第6章-循环/程序/checking.c 第6章-循环/编程题/2.c 第6章-循环/编程题/4.c 第6章-循环/编程题/6.c 第6章-循环/编程题/8.c 第7章-基本类型/程序/sum2.c 第7章-基本类型/程序/length.c 第8章-数组/程序/reverse.c 第8章-数组/程序/repdigit.c 第8章-数组/程序/interest.c 第8章-数组/程序/deal.c 第8章-数组/程序/reverse2.c 第9章-函数/程序/average.c 第9章-函数/程序/countdown.c 第9章-函数/程序/pun2.c 第9章-函数/程序/prime.c 第9章-函数/程序/qsort.c 第10章-程序结构/程序/guess.c 第10章-程序结构/程序/guess2.c 第10章-程序结构/程序/poker.c 第11章-指针/程序/maxmin.c 第12章-指针和数组/程序/reverse3.c)
