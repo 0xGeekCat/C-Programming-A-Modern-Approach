@@ -4,12 +4,16 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/max/CLionProjects/C Programming: A Modern Approach/tmp.c" "/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles/C_Programming__A_Modern_Approach.dir/tmp.c.o"
   "/Users/max/CLionProjects/C Programming: A Modern Approach/第10章-程序结构/程序/guess.c" "/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/guess.c.o"
   "/Users/max/CLionProjects/C Programming: A Modern Approach/第10章-程序结构/程序/guess2.c" "/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/guess2.c.o"
   "/Users/max/CLionProjects/C Programming: A Modern Approach/第10章-程序结构/程序/poker.c" "/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/poker.c.o"
   "/Users/max/CLionProjects/C Programming: A Modern Approach/第11章-指针/程序/maxmin.c" "/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles/C_Programming__A_Modern_Approach.dir/第11章-指针/程序/maxmin.c.o"
   "/Users/max/CLionProjects/C Programming: A Modern Approach/第12章-指针和数组/程序/reverse3.c" "/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles/C_Programming__A_Modern_Approach.dir/第12章-指针和数组/程序/reverse3.c.o"
+  "/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/justify.c" "/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/justify.c.o"
+  "/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/line.c" "/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/line.c.o"
+  "/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/word.c" "/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/word.c.o"
+  "/Users/max/CLionProjects/C Programming: A Modern Approach/第16章-结构、联合和枚举/程序/inventory.c" "/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/inventory.c.o"
+  "/Users/max/CLionProjects/C Programming: A Modern Approach/第16章-结构、联合和枚举/程序/readline.c" "/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/readline.c.o"
   "/Users/max/CLionProjects/C Programming: A Modern Approach/第2章-C语言基本概念/程序/celsius.c" "/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles/C_Programming__A_Modern_Approach.dir/第2章-C语言基本概念/程序/celsius.c.o"
   "/Users/max/CLionProjects/C Programming: A Modern Approach/第2章-C语言基本概念/程序/dweight.c" "/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles/C_Programming__A_Modern_Approach.dir/第2章-C语言基本概念/程序/dweight.c.o"
   "/Users/max/CLionProjects/C Programming: A Modern Approach/第2章-C语言基本概念/程序/dweight2.c" "/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles/C_Programming__A_Modern_Approach.dir/第2章-C语言基本概念/程序/dweight2.c.o"

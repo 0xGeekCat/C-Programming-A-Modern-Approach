@@ -220,22 +220,9 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/�
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/程序/tprintf.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/max/CLionProjects/C Programming: A Modern Approach/第3章-格式化输入输出/程序/tprintf.c" -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/程序/tprintf.c.s
 
-CMakeFiles/C_Programming__A_Modern_Approach.dir/tmp.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
-CMakeFiles/C_Programming__A_Modern_Approach.dir/tmp.c.o: ../tmp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/tmp.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/tmp.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/tmp.c"
-
-CMakeFiles/C_Programming__A_Modern_Approach.dir/tmp.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Programming__A_Modern_Approach.dir/tmp.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/max/CLionProjects/C Programming: A Modern Approach/tmp.c" > CMakeFiles/C_Programming__A_Modern_Approach.dir/tmp.c.i
-
-CMakeFiles/C_Programming__A_Modern_Approach.dir/tmp.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Programming__A_Modern_Approach.dir/tmp.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/max/CLionProjects/C Programming: A Modern Approach/tmp.c" -o CMakeFiles/C_Programming__A_Modern_Approach.dir/tmp.c.s
-
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/程序/addfrac.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/程序/addfrac.c.o: ../第3章-格式化输入输出/程序/addfrac.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/程序/addfrac.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/程序/addfrac.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/程序/addfrac.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第3章-格式化输入输出/程序/addfrac.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/程序/addfrac.c.i: cmake_force
@@ -248,7 +235,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/�
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/1.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/1.c.o: ../第3章-格式化输入输出/编程题/1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/1.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/1.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第3章-格式化输入输出/编程题/1.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/1.c.i: cmake_force
@@ -261,7 +248,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/�
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/2.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/2.c.o: ../第3章-格式化输入输出/编程题/2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/2.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/2.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第3章-格式化输入输出/编程题/2.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/2.c.i: cmake_force
@@ -274,7 +261,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/�
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/3.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/3.c.o: ../第3章-格式化输入输出/编程题/3.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/3.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/3.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第3章-格式化输入输出/编程题/3.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/3.c.i: cmake_force
@@ -287,7 +274,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/�
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/4.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/4.c.o: ../第3章-格式化输入输出/编程题/4.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/4.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/4.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第3章-格式化输入输出/编程题/4.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/4.c.i: cmake_force
@@ -300,7 +287,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/�
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/5.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/5.c.o: ../第3章-格式化输入输出/编程题/5.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/5.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/5.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/5.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第3章-格式化输入输出/编程题/5.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/5.c.i: cmake_force
@@ -313,7 +300,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/�
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/6.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/6.c.o: ../第3章-格式化输入输出/编程题/6.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/6.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/6.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/6.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第3章-格式化输入输出/编程题/6.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/6.c.i: cmake_force
@@ -326,7 +313,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/�
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/程序/upc.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/程序/upc.c.o: ../第4章-表达式/程序/upc.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/程序/upc.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/程序/upc.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/程序/upc.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第4章-表达式/程序/upc.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/程序/upc.c.i: cmake_force
@@ -339,7 +326,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/程序/upc.c.s
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/1.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/1.c.o: ../第4章-表达式/编程题/1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/1.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/1.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/1.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第4章-表达式/编程题/1.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/1.c.i: cmake_force
@@ -352,7 +339,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/1.c.
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/2.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/2.c.o: ../第4章-表达式/编程题/2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/2.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/2.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第4章-表达式/编程题/2.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/2.c.i: cmake_force
@@ -365,7 +352,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/2.c.
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/3.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/3.c.o: ../第4章-表达式/编程题/3.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/3.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/3.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第4章-表达式/编程题/3.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/3.c.i: cmake_force
@@ -378,7 +365,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第4章-表达式/编程题/3.c.
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/程序/broker.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/程序/broker.c.o: ../第5章-选择语句/程序/broker.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/程序/broker.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/程序/broker.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/程序/broker.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第5章-选择语句/程序/broker.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/程序/broker.c.i: cmake_force
@@ -391,7 +378,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/程序/brok
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/程序/date.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/程序/date.c.o: ../第5章-选择语句/程序/date.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/程序/date.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/程序/date.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/程序/date.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第5章-选择语句/程序/date.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/程序/date.c.i: cmake_force
@@ -404,7 +391,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/程序/date
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/2.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/2.c.o: ../第5章-选择语句/编程题/2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/2.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/2.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第5章-选择语句/编程题/2.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/2.c.i: cmake_force
@@ -417,7 +404,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/2
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/4.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/4.c.o: ../第5章-选择语句/编程题/4.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/4.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/4.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第5章-选择语句/编程题/4.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/4.c.i: cmake_force
@@ -430,7 +417,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/4
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/6.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/6.c.o: ../第5章-选择语句/编程题/6.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/6.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/6.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/6.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第5章-选择语句/编程题/6.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/6.c.i: cmake_force
@@ -443,7 +430,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/6
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/10.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/10.c.o: ../第5章-选择语句/编程题/10.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/10.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/10.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/10.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第5章-选择语句/编程题/10.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/10.c.i: cmake_force
@@ -456,7 +443,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第5章-选择语句/编程题/1
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square.c.o: ../第6章-循环/程序/square.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/程序/square.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square.c.i: cmake_force
@@ -469,7 +456,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square.c.s
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/sum.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/sum.c.o: ../第6章-循环/程序/sum.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/sum.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/sum.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/sum.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/程序/sum.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/sum.c.i: cmake_force
@@ -482,7 +469,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/sum.c.s: c
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/numdigit.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/numdigit.c.o: ../第6章-循环/程序/numdigit.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/numdigit.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/numdigit.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/numdigit.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/程序/numdigit.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/numdigit.c.i: cmake_force
@@ -495,7 +482,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/numdigit.c
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square2.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square2.c.o: ../第6章-循环/程序/square2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square2.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square2.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/程序/square2.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square2.c.i: cmake_force
@@ -508,7 +495,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square2.c.
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square3.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square3.c.o: ../第6章-循环/程序/square3.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square3.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square3.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/程序/square3.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square3.c.i: cmake_force
@@ -521,7 +508,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/square3.c.
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/checking.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/checking.c.o: ../第6章-循环/程序/checking.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/checking.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/checking.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/checking.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/程序/checking.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/checking.c.i: cmake_force
@@ -534,7 +521,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/程序/checking.c
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/2.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/2.c.o: ../第6章-循环/编程题/2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/2.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/2.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/编程题/2.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/2.c.i: cmake_force
@@ -547,7 +534,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/2.c.s: 
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/4.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/4.c.o: ../第6章-循环/编程题/4.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/4.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/4.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/4.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/编程题/4.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/4.c.i: cmake_force
@@ -560,7 +547,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/4.c.s: 
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/6.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/6.c.o: ../第6章-循环/编程题/6.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/6.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/6.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/6.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/编程题/6.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/6.c.i: cmake_force
@@ -573,7 +560,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/6.c.s: 
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/8.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/8.c.o: ../第6章-循环/编程题/8.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/8.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/8.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/8.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第6章-循环/编程题/8.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/8.c.i: cmake_force
@@ -586,7 +573,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第6章-循环/编程题/8.c.s: 
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第7章-基本类型/程序/sum2.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第7章-基本类型/程序/sum2.c.o: ../第7章-基本类型/程序/sum2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第7章-基本类型/程序/sum2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第7章-基本类型/程序/sum2.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第7章-基本类型/程序/sum2.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第7章-基本类型/程序/sum2.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第7章-基本类型/程序/sum2.c.i: cmake_force
@@ -599,7 +586,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第7章-基本类型/程序/sum2
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第7章-基本类型/程序/length.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第7章-基本类型/程序/length.c.o: ../第7章-基本类型/程序/length.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第7章-基本类型/程序/length.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第7章-基本类型/程序/length.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第7章-基本类型/程序/length.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第7章-基本类型/程序/length.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第7章-基本类型/程序/length.c.i: cmake_force
@@ -612,7 +599,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第7章-基本类型/程序/leng
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/reverse.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/reverse.c.o: ../第8章-数组/程序/reverse.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/reverse.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/reverse.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/reverse.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第8章-数组/程序/reverse.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/reverse.c.i: cmake_force
@@ -625,7 +612,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/reverse.c.
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/repdigit.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/repdigit.c.o: ../第8章-数组/程序/repdigit.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/repdigit.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/repdigit.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/repdigit.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第8章-数组/程序/repdigit.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/repdigit.c.i: cmake_force
@@ -638,7 +625,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/repdigit.c
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/interest.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/interest.c.o: ../第8章-数组/程序/interest.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/interest.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/interest.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/interest.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第8章-数组/程序/interest.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/interest.c.i: cmake_force
@@ -651,7 +638,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/interest.c
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/deal.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/deal.c.o: ../第8章-数组/程序/deal.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/deal.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/deal.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/deal.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第8章-数组/程序/deal.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/deal.c.i: cmake_force
@@ -664,7 +651,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/deal.c.s: 
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/reverse2.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/reverse2.c.o: ../第8章-数组/程序/reverse2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/reverse2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/reverse2.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/reverse2.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第8章-数组/程序/reverse2.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/reverse2.c.i: cmake_force
@@ -677,7 +664,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第8章-数组/程序/reverse2.c
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/average.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/average.c.o: ../第9章-函数/程序/average.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/average.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/average.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/average.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第9章-函数/程序/average.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/average.c.i: cmake_force
@@ -690,7 +677,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/average.c.
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/countdown.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/countdown.c.o: ../第9章-函数/程序/countdown.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/countdown.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/countdown.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/countdown.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第9章-函数/程序/countdown.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/countdown.c.i: cmake_force
@@ -703,7 +690,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/countdown.
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/pun2.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/pun2.c.o: ../第9章-函数/程序/pun2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/pun2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/pun2.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/pun2.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第9章-函数/程序/pun2.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/pun2.c.i: cmake_force
@@ -716,7 +703,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/pun2.c.s: 
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/prime.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/prime.c.o: ../第9章-函数/程序/prime.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/prime.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/prime.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/prime.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第9章-函数/程序/prime.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/prime.c.i: cmake_force
@@ -729,7 +716,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/prime.c.s:
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/qsort.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/qsort.c.o: ../第9章-函数/程序/qsort.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/qsort.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/qsort.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/qsort.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第9章-函数/程序/qsort.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/qsort.c.i: cmake_force
@@ -742,7 +729,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第9章-函数/程序/qsort.c.s:
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/guess.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/guess.c.o: ../第10章-程序结构/程序/guess.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/guess.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/guess.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/guess.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第10章-程序结构/程序/guess.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/guess.c.i: cmake_force
@@ -755,7 +742,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/gue
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/guess2.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/guess2.c.o: ../第10章-程序结构/程序/guess2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/guess2.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/guess2.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/guess2.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第10章-程序结构/程序/guess2.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/guess2.c.i: cmake_force
@@ -768,7 +755,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/gue
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/poker.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/poker.c.o: ../第10章-程序结构/程序/poker.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/poker.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/poker.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/poker.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第10章-程序结构/程序/poker.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/poker.c.i: cmake_force
@@ -781,7 +768,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/pok
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第11章-指针/程序/maxmin.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第11章-指针/程序/maxmin.c.o: ../第11章-指针/程序/maxmin.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第11章-指针/程序/maxmin.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第11章-指针/程序/maxmin.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第11章-指针/程序/maxmin.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第11章-指针/程序/maxmin.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第11章-指针/程序/maxmin.c.i: cmake_force
@@ -794,7 +781,7 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第11章-指针/程序/maxmin.c.
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第12章-指针和数组/程序/reverse3.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第12章-指针和数组/程序/reverse3.c.o: ../第12章-指针和数组/程序/reverse3.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第12章-指针和数组/程序/reverse3.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第12章-指针和数组/程序/reverse3.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第12章-指针和数组/程序/reverse3.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第12章-指针和数组/程序/reverse3.c"
 
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第12章-指针和数组/程序/reverse3.c.i: cmake_force
@@ -804,6 +791,71 @@ CMakeFiles/C_Programming__A_Modern_Approach.dir/第12章-指针和数组/程序/
 CMakeFiles/C_Programming__A_Modern_Approach.dir/第12章-指针和数组/程序/reverse3.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Programming__A_Modern_Approach.dir/第12章-指针和数组/程序/reverse3.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/max/CLionProjects/C Programming: A Modern Approach/第12章-指针和数组/程序/reverse3.c" -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第12章-指针和数组/程序/reverse3.c.s
+
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/justify.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/justify.c.o: ../第15章-编写大型程序/程序/justify.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/justify.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/justify.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/justify.c"
+
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/justify.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/justify.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/justify.c" > CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/justify.c.i
+
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/justify.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/justify.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/justify.c" -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/justify.c.s
+
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/line.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/line.c.o: ../第15章-编写大型程序/程序/line.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/line.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/line.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/line.c"
+
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/line.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/line.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/line.c" > CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/line.c.i
+
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/line.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/line.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/line.c" -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/line.c.s
+
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/word.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/word.c.o: ../第15章-编写大型程序/程序/word.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/word.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/word.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/word.c"
+
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/word.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/word.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/word.c" > CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/word.c.i
+
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/word.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/word.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/word.c" -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/word.c.s
+
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/inventory.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/inventory.c.o: ../第16章-结构、联合和枚举/程序/inventory.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/inventory.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/inventory.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第16章-结构、联合和枚举/程序/inventory.c"
+
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/inventory.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/inventory.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/max/CLionProjects/C Programming: A Modern Approach/第16章-结构、联合和枚举/程序/inventory.c" > CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/inventory.c.i
+
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/inventory.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/inventory.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/max/CLionProjects/C Programming: A Modern Approach/第16章-结构、联合和枚举/程序/inventory.c" -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/inventory.c.s
+
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/readline.c.o: CMakeFiles/C_Programming__A_Modern_Approach.dir/flags.make
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/readline.c.o: ../第16章-结构、联合和枚举/程序/readline.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/readline.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/readline.c.o   -c "/Users/max/CLionProjects/C Programming: A Modern Approach/第16章-结构、联合和枚举/程序/readline.c"
+
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/readline.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/readline.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/max/CLionProjects/C Programming: A Modern Approach/第16章-结构、联合和枚举/程序/readline.c" > CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/readline.c.i
+
+CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/readline.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/readline.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/max/CLionProjects/C Programming: A Modern Approach/第16章-结构、联合和枚举/程序/readline.c" -o CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/readline.c.s
 
 # Object files for target C_Programming__A_Modern_Approach
 C_Programming__A_Modern_Approach_OBJECTS = \
@@ -818,7 +870,6 @@ C_Programming__A_Modern_Approach_OBJECTS = \
 "CMakeFiles/C_Programming__A_Modern_Approach.dir/第2章-C语言基本概念/编程题/6.c.o" \
 "CMakeFiles/C_Programming__A_Modern_Approach.dir/第2章-C语言基本概念/编程题/7.c.o" \
 "CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/程序/tprintf.c.o" \
-"CMakeFiles/C_Programming__A_Modern_Approach.dir/tmp.c.o" \
 "CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/程序/addfrac.c.o" \
 "CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/1.c.o" \
 "CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/2.c.o" \
@@ -862,7 +913,12 @@ C_Programming__A_Modern_Approach_OBJECTS = \
 "CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/guess2.c.o" \
 "CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/poker.c.o" \
 "CMakeFiles/C_Programming__A_Modern_Approach.dir/第11章-指针/程序/maxmin.c.o" \
-"CMakeFiles/C_Programming__A_Modern_Approach.dir/第12章-指针和数组/程序/reverse3.c.o"
+"CMakeFiles/C_Programming__A_Modern_Approach.dir/第12章-指针和数组/程序/reverse3.c.o" \
+"CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/justify.c.o" \
+"CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/line.c.o" \
+"CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/word.c.o" \
+"CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/inventory.c.o" \
+"CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/readline.c.o"
 
 # External object files for target C_Programming__A_Modern_Approach
 C_Programming__A_Modern_Approach_EXTERNAL_OBJECTS =
@@ -878,7 +934,6 @@ C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.di
 C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/第2章-C语言基本概念/编程题/6.c.o
 C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/第2章-C语言基本概念/编程题/7.c.o
 C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/程序/tprintf.c.o
-C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/tmp.c.o
 C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/程序/addfrac.c.o
 C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/1.c.o
 C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/第3章-格式化输入输出/编程题/2.c.o
@@ -923,9 +978,14 @@ C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.di
 C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/第10章-程序结构/程序/poker.c.o
 C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/第11章-指针/程序/maxmin.c.o
 C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/第12章-指针和数组/程序/reverse3.c.o
+C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/justify.c.o
+C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/line.c.o
+C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/word.c.o
+C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/inventory.c.o
+C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/readline.c.o
 C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make
 C_Programming__A_Modern_Approach: CMakeFiles/C_Programming__A_Modern_Approach.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_57) "Linking C executable C_Programming__A_Modern_Approach"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/max/CLionProjects/C Programming: A Modern Approach/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_61) "Linking C executable C_Programming__A_Modern_Approach"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C_Programming__A_Modern_Approach.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

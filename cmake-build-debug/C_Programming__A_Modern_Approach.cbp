@@ -78,9 +78,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/tmp.c">
-			<Option target="C_Programming__A_Modern_Approach"/>
-		</Unit>
 		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第10章-程序结构/程序/guess.c">
 			<Option target="C_Programming__A_Modern_Approach"/>
 		</Unit>
@@ -94,6 +91,30 @@
 			<Option target="C_Programming__A_Modern_Approach"/>
 		</Unit>
 		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第12章-指针和数组/程序/reverse3.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/justify.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/line.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/line.h">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/word.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第15章-编写大型程序/程序/word.h">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第16章-结构、联合和枚举/程序/inventory.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第16章-结构、联合和枚举/程序/readline.c">
+			<Option target="C_Programming__A_Modern_Approach"/>
+		</Unit>
+		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第16章-结构、联合和枚举/程序/readline.h">
 			<Option target="C_Programming__A_Modern_Approach"/>
 		</Unit>
 		<Unit filename="/Users/max/CLionProjects/C Programming: A Modern Approach/第2章-C语言基本概念/程序/celsius.c">

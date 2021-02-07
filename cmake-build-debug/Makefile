@@ -143,33 +143,6 @@ C_Programming__A_Modern_Approach/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/build
 .PHONY : C_Programming__A_Modern_Approach/fast
 
-tmp.o: tmp.c.o
-
-.PHONY : tmp.o
-
-# target to build an object file
-tmp.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/tmp.c.o
-.PHONY : tmp.c.o
-
-tmp.i: tmp.c.i
-
-.PHONY : tmp.i
-
-# target to preprocess a source file
-tmp.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/tmp.c.i
-.PHONY : tmp.c.i
-
-tmp.s: tmp.c.s
-
-.PHONY : tmp.s
-
-# target to generate assembly for a file
-tmp.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/tmp.c.s
-.PHONY : tmp.c.s
-
 第10章-程序结构/程序/guess.o: 第10章-程序结构/程序/guess.c.o
 
 .PHONY : 第10章-程序结构/程序/guess.o
@@ -304,6 +277,141 @@ tmp.c.s:
 第12章-指针和数组/程序/reverse3.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/第12章-指针和数组/程序/reverse3.c.s
 .PHONY : 第12章-指针和数组/程序/reverse3.c.s
+
+第15章-编写大型程序/程序/justify.o: 第15章-编写大型程序/程序/justify.c.o
+
+.PHONY : 第15章-编写大型程序/程序/justify.o
+
+# target to build an object file
+第15章-编写大型程序/程序/justify.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/justify.c.o
+.PHONY : 第15章-编写大型程序/程序/justify.c.o
+
+第15章-编写大型程序/程序/justify.i: 第15章-编写大型程序/程序/justify.c.i
+
+.PHONY : 第15章-编写大型程序/程序/justify.i
+
+# target to preprocess a source file
+第15章-编写大型程序/程序/justify.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/justify.c.i
+.PHONY : 第15章-编写大型程序/程序/justify.c.i
+
+第15章-编写大型程序/程序/justify.s: 第15章-编写大型程序/程序/justify.c.s
+
+.PHONY : 第15章-编写大型程序/程序/justify.s
+
+# target to generate assembly for a file
+第15章-编写大型程序/程序/justify.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/justify.c.s
+.PHONY : 第15章-编写大型程序/程序/justify.c.s
+
+第15章-编写大型程序/程序/line.o: 第15章-编写大型程序/程序/line.c.o
+
+.PHONY : 第15章-编写大型程序/程序/line.o
+
+# target to build an object file
+第15章-编写大型程序/程序/line.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/line.c.o
+.PHONY : 第15章-编写大型程序/程序/line.c.o
+
+第15章-编写大型程序/程序/line.i: 第15章-编写大型程序/程序/line.c.i
+
+.PHONY : 第15章-编写大型程序/程序/line.i
+
+# target to preprocess a source file
+第15章-编写大型程序/程序/line.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/line.c.i
+.PHONY : 第15章-编写大型程序/程序/line.c.i
+
+第15章-编写大型程序/程序/line.s: 第15章-编写大型程序/程序/line.c.s
+
+.PHONY : 第15章-编写大型程序/程序/line.s
+
+# target to generate assembly for a file
+第15章-编写大型程序/程序/line.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/line.c.s
+.PHONY : 第15章-编写大型程序/程序/line.c.s
+
+第15章-编写大型程序/程序/word.o: 第15章-编写大型程序/程序/word.c.o
+
+.PHONY : 第15章-编写大型程序/程序/word.o
+
+# target to build an object file
+第15章-编写大型程序/程序/word.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/word.c.o
+.PHONY : 第15章-编写大型程序/程序/word.c.o
+
+第15章-编写大型程序/程序/word.i: 第15章-编写大型程序/程序/word.c.i
+
+.PHONY : 第15章-编写大型程序/程序/word.i
+
+# target to preprocess a source file
+第15章-编写大型程序/程序/word.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/word.c.i
+.PHONY : 第15章-编写大型程序/程序/word.c.i
+
+第15章-编写大型程序/程序/word.s: 第15章-编写大型程序/程序/word.c.s
+
+.PHONY : 第15章-编写大型程序/程序/word.s
+
+# target to generate assembly for a file
+第15章-编写大型程序/程序/word.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/第15章-编写大型程序/程序/word.c.s
+.PHONY : 第15章-编写大型程序/程序/word.c.s
+
+第16章-结构、联合和枚举/程序/inventory.o: 第16章-结构、联合和枚举/程序/inventory.c.o
+
+.PHONY : 第16章-结构、联合和枚举/程序/inventory.o
+
+# target to build an object file
+第16章-结构、联合和枚举/程序/inventory.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/inventory.c.o
+.PHONY : 第16章-结构、联合和枚举/程序/inventory.c.o
+
+第16章-结构、联合和枚举/程序/inventory.i: 第16章-结构、联合和枚举/程序/inventory.c.i
+
+.PHONY : 第16章-结构、联合和枚举/程序/inventory.i
+
+# target to preprocess a source file
+第16章-结构、联合和枚举/程序/inventory.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/inventory.c.i
+.PHONY : 第16章-结构、联合和枚举/程序/inventory.c.i
+
+第16章-结构、联合和枚举/程序/inventory.s: 第16章-结构、联合和枚举/程序/inventory.c.s
+
+.PHONY : 第16章-结构、联合和枚举/程序/inventory.s
+
+# target to generate assembly for a file
+第16章-结构、联合和枚举/程序/inventory.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/inventory.c.s
+.PHONY : 第16章-结构、联合和枚举/程序/inventory.c.s
+
+第16章-结构、联合和枚举/程序/readline.o: 第16章-结构、联合和枚举/程序/readline.c.o
+
+.PHONY : 第16章-结构、联合和枚举/程序/readline.o
+
+# target to build an object file
+第16章-结构、联合和枚举/程序/readline.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/readline.c.o
+.PHONY : 第16章-结构、联合和枚举/程序/readline.c.o
+
+第16章-结构、联合和枚举/程序/readline.i: 第16章-结构、联合和枚举/程序/readline.c.i
+
+.PHONY : 第16章-结构、联合和枚举/程序/readline.i
+
+# target to preprocess a source file
+第16章-结构、联合和枚举/程序/readline.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/readline.c.i
+.PHONY : 第16章-结构、联合和枚举/程序/readline.c.i
+
+第16章-结构、联合和枚举/程序/readline.s: 第16章-结构、联合和枚举/程序/readline.c.s
+
+.PHONY : 第16章-结构、联合和枚举/程序/readline.s
+
+# target to generate assembly for a file
+第16章-结构、联合和枚举/程序/readline.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_Programming__A_Modern_Approach.dir/build.make CMakeFiles/C_Programming__A_Modern_Approach.dir/第16章-结构、联合和枚举/程序/readline.c.s
+.PHONY : 第16章-结构、联合和枚举/程序/readline.c.s
 
 第2章-C语言基本概念/程序/celsius.o: 第2章-C语言基本概念/程序/celsius.c.o
 
@@ -1664,9 +1772,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... C_Programming__A_Modern_Approach"
-	@echo "... tmp.o"
-	@echo "... tmp.i"
-	@echo "... tmp.s"
 	@echo "... 第10章-程序结构/程序/guess.o"
 	@echo "... 第10章-程序结构/程序/guess.i"
 	@echo "... 第10章-程序结构/程序/guess.s"
@@ -1682,6 +1787,21 @@ help:
 	@echo "... 第12章-指针和数组/程序/reverse3.o"
 	@echo "... 第12章-指针和数组/程序/reverse3.i"
 	@echo "... 第12章-指针和数组/程序/reverse3.s"
+	@echo "... 第15章-编写大型程序/程序/justify.o"
+	@echo "... 第15章-编写大型程序/程序/justify.i"
+	@echo "... 第15章-编写大型程序/程序/justify.s"
+	@echo "... 第15章-编写大型程序/程序/line.o"
+	@echo "... 第15章-编写大型程序/程序/line.i"
+	@echo "... 第15章-编写大型程序/程序/line.s"
+	@echo "... 第15章-编写大型程序/程序/word.o"
+	@echo "... 第15章-编写大型程序/程序/word.i"
+	@echo "... 第15章-编写大型程序/程序/word.s"
+	@echo "... 第16章-结构、联合和枚举/程序/inventory.o"
+	@echo "... 第16章-结构、联合和枚举/程序/inventory.i"
+	@echo "... 第16章-结构、联合和枚举/程序/inventory.s"
+	@echo "... 第16章-结构、联合和枚举/程序/readline.o"
+	@echo "... 第16章-结构、联合和枚举/程序/readline.i"
+	@echo "... 第16章-结构、联合和枚举/程序/readline.s"
 	@echo "... 第2章-C语言基本概念/程序/celsius.o"
 	@echo "... 第2章-C语言基本概念/程序/celsius.i"
 	@echo "... 第2章-C语言基本概念/程序/celsius.s"
